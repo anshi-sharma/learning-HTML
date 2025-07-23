@@ -1,0 +1,11 @@
+.hero{
+background-color:lightpink;
+display: flex;
+justify-content: space-evenly ;
+border: 20px solid royalblue;
+align-items: center;
+}
+
+
+    
+    

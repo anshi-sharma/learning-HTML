@@ -1,0 +1,19 @@
+.head{ text-align: center;
+    font-size: 10px;
+    font-style: italic;
+    text-decoration: underline;
+    text-decoration-color: blue;
+    text-decoration-style: wavy;
+    word-spacing: 90px;
+    font-family: Georgia;
+}
+.para{
+    font-weight: bold;
+    line-height: 5px;
+    letter-spacing: 5px;
+    color: aqua;
+
+}
+.heading{
+    text-transform: uppercase;
+}
