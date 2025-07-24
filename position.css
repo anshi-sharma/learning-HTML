@@ -1,0 +1,24 @@
+.parent{
+    background-color: red;
+    height: 400px;
+    margin-top: 100px;
+}
+
+.child{
+ background-color: rebeccapurple;
+    height: 200px;
+    width: 200px;
+    position: absolute;
+    top: 20px;
+
+
+}
+.ch2{
+    background-color: blue;
+    height: 200px;
+    width: 200px;
+    position: sticky;
+    top: 0;
+
+
+}
